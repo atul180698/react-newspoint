@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Arthritis: From Turmeric To Aloe Vera, 5 Herbs That Can Help You Manage Pain - NDTV",
+        "description": "Arthritis is a condition that leads to pain and inflammation of the joints. Several herbs can help manage this pain. Here's a list of these.",
+        "url": "https://www.ndtv.com/health/arthritis-from-turmeric-to-aloe-vera-5-herbs-that-can-help-you-manage-pain-3759937",
+        "urlToImage": "https://c.ndtvimg.com/2019-01/d89v2uuo_inflammation_625x300_24_January_19.jpg",
+        "publishedAt": "2023-02-07T06:13:00Z",
+        "content": "Arthritis pain and inflammation can worsen in winter season\r\nArthritis is one of the common causes of pain in joints and bones. The disease affects several in India and is characterised by stiffness … [+2109 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Weight Loss Tips: Follow These 4 Hassle Free Weight Loss Principles If You Want To Avoid Calorie Counting, As Shared By A Nutritionist - NDTV",
+        "description": "Keep these 4 easy diet tips in mind if you want to lose weight but want to avoid having to calorie count the whole day.",
+        "url": "https://www.ndtv.com/health/weight-loss-tips-follow-these-4-hassle-free-weight-loss-principles-if-you-want-to-avoid-calorie-counting-as-shared-by-a-nutritionist-3758476",
+        "urlToImage": "https://c.ndtvimg.com/2018-12/lq6cqa0g_dieting_625x300_17_December_18.jpg",
+        "publishedAt": "2023-02-06T14:47:16Z",
+        "content": "You can lose weight by following these tips instead of calorie counting and obsessing over numbers\r\nLosing weight is something many of us are constantly trying to work towards. However, lack of enoug… [+3736 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Almonds Health Benefits: Here Are 9 Reasons Why You Should Eat Almonds Daily - NDTV",
+        "description": "In this article, we discuss 9 reasons why you should eat almonds daily.",
+        "url": "https://www.ndtv.com/health/almonds-health-benefits-here-are-9-reasons-why-you-should-eat-almonds-daily-3757211",
+        "urlToImage": "https://c.ndtvimg.com/2022-01/6c8hvi_almonds_625x300_12_January_22.jpg",
+        "publishedAt": "2023-02-06T09:24:00Z",
+        "content": "Almonds can help improve our overall health in a variety of ways\r\nNutrient powerhouses, almonds. You can eat almonds whole, in pieces, slices, or processed into almond butter or flour. Almond milk is… [+3938 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Constipation During Pregnancy: Know 5 Possible Causes - NDTV",
+        "description": "Nutritionist Lovneet Batra states the reasons why women face constipation during pregnancy.",
+        "url": "https://www.ndtv.com/health/constipation-during-pregnancy-know-5-possible-causes-3756646",
+        "urlToImage": "https://c.ndtvimg.com/2020-07/ac65fsvg_pregnancy-650_650x400_08_July_20.jpg",
+        "publishedAt": "2023-02-06T06:29:59Z",
+        "content": "Lack of physical activity during pregnancy can lead to constipation\r\nPregnancy makes for a pivotal phase in a woman's life. That's the time when you, as mothers-to-be, feel high on emotions, and ther… [+2416 chars]"
+      }
+    ]
+  }
