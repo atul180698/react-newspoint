@@ -18,7 +18,6 @@ const App = () => {
         <Navbar />
         <LoadingBar
           color='#f11946'
-          height={3}
           progress={progress}
         />
         <Routes>
