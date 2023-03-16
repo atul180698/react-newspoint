@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import Newsitem from './Newsitem'
-import Spinner from './Spinner';
+import Spinner from './Spinner'
 import PropTypes from 'prop-types'
 import InfiniteScroll from "react-infinite-scroll-component"
 
@@ -23,7 +23,7 @@ const News = (props) => {
 
     let parsedData = await data.json()
     props.setProgress(70)
-
+    
     setArticles(parsedData.articles)
     setTotalResults(parsedData.totalResults)
     setLoading(false)
@@ -59,7 +59,7 @@ const News = (props) => {
           <div className="row">
             {articles.map((element) => {
               return <div className="col-md-4" key={element.url}>
-                <Newsitem title={element.title ? element.title : ""} description={element.description ? element.description : ""} newsUrl={element.url} imageUrl={element.urlToImage} author={element.author} date={element.publishedAt} />
+                <Newsitem title={element.title ? element.title : ""} description={element.description ? element.description : ""} newsUrl={element.url} imageUrl={element.urlToImage} author={element.author} date={element.publishedAt} source={element.source.name} />
               </div>
             })}
           </div>
@@ -82,3 +82,4 @@ News.propTypes = {
 }
 
 export default News
+
